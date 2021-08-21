@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://q751147626.github/</id>
+    <id>https://q751147626.github.io/</id>
     <title>会飞的猫</title>
-    <updated>2021-08-21T14:44:33.539Z</updated>
+    <updated>2021-08-21T14:47:23.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://q751147626.github/"/>
-    <link rel="self" href="https://q751147626.github/atom.xml"/>
+    <link rel="alternate" href="https://q751147626.github.io/"/>
+    <link rel="self" href="https://q751147626.github.io/atom.xml"/>
     <subtitle>做自己想做的事情，不跟风不动摇</subtitle>
-    <logo>https://q751147626.github/images/avatar.png</logo>
-    <icon>https://q751147626.github/favicon.ico</icon>
+    <logo>https://q751147626.github.io/images/avatar.png</logo>
+    <icon>https://q751147626.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 会飞的猫</rights>
     <entry>
         <title type="html"><![CDATA[👏测试一下]]></title>
-        <id>https://q751147626.github/post/hello-gridea/</id>
-        <link href="https://q751147626.github/post/hello-gridea/">
+        <id>https://q751147626.github.io/post/hello-gridea/</id>
+        <link href="https://q751147626.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>#coding:utf-8 设置编码字符</p>
