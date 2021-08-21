@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://q751147626.github.io/q751147626.github/</id>
     <title>会飞的猫</title>
-    <updated>2021-08-21T14:56:19.587Z</updated>
+    <updated>2021-08-21T14:57:25.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://q751147626.github.io/q751147626.github/"/>
     <link rel="self" href="https://q751147626.github.io/q751147626.github/atom.xml"/>
@@ -34,10 +34,7 @@
 <p>app的xml【】用AS</p>
 <p>appActivity：</p>
 <p>模拟器打开app</p>
-<p>CMD：adb shell dumpsys window windows | findstr &quot;Current&quot;<br>
-————————————————<br>
-版权声明：本文为CSDN博主「萝卜＋」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。<br>
-原文链接：https://blog.csdn.net/QQ751147626/article/details/88696291</p>
+<p>CMD：adb shell dumpsys window windows | findstr &quot;Current&quot;</p>
 ]]></content>
     </entry>
 </feed>
