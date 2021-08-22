@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://q751147626.github.io/q751147626.github/</id>
     <title>会飞的猫</title>
-    <updated>2021-08-21T15:10:17.269Z</updated>
+    <updated>2021-08-22T00:50:25.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://q751147626.github.io/q751147626.github/"/>
     <link rel="self" href="https://q751147626.github.io/q751147626.github/atom.xml"/>
@@ -12,6 +12,42 @@
     <logo>https://q751147626.github.io/q751147626.github/images/avatar.png</logo>
     <icon>https://q751147626.github.io/q751147626.github/favicon.ico</icon>
     <rights>All rights reserved 2021, 会飞的猫</rights>
+    <entry>
+        <title type="html"><![CDATA[👏JAVA_1.8版本的安装]]></title>
+        <id>https://q751147626.github.io/q751147626.github/post/java-de-an-zhuang-shi-yong/</id>
+        <link href="https://q751147626.github.io/q751147626.github/post/java-de-an-zhuang-shi-yong/">
+        </link>
+        <updated>2021-08-22T00:17:11.000Z</updated>
+        <content type="html"><![CDATA[<p>​掌握java的环境搭建<br>
+Android studio3.0的安装</p>
+<p>生成一个APK文件</p>
+<p>显示控件和按钮</p>
+<p>java 1.8.0_181</p>
+<p>☝️下载</p>
+<p>首先下载java1.8.0<br>
+网址：http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html</p>
+<p>本人电脑是64位 win10所以下载的是 Windows x64  👉注：x86是32位</p>
+<p>Acceptance of license agreement---接受许可然后下载自己的版本</p>
+<p>✌️安装</p>
+<p>安装时默认点击下一步，但选择安装路径时，默认安装路径为  C:\Program Files\Java\jdk1.8.0_131\，建议在windows下选择一</p>
+<p>个单独的盘用于安装开发软件，以后会很方便  路径修改为D:\java\jdk</p>
+<p>下一步 对应安装  JRE   默认路径为：C:\Program Files\Java\jre1.8.0_131  建议修改路径:   D:\java\jre1.8.0_181</p>
+<p>等待程序进行安装完成，其中 安装路径可以根据自己选择，路径中建议不要存在汉字，或者特殊字符串，JDK 和JRE建议安装</p>
+<p>在同一个路径下。</p>
+<p>🤘配置</p>
+<p>安装成功，开始环境变量配置</p>
+<p>a、新建用户变量：  JAVA_HOME----- D:\java\jdk</p>
+<p>b、 新增系统变量 CLASSPATH -------.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar</p>
+<p>注意 前面的 符号不能省略</p>
+<p>c、修改 系统变量 Path-----%JAVA_HOME%\bin-------%JAVA_HOME%\jre\bin</p>
+<p>win10分开添加不需要；</p>
+<p>d、确定</p>
+<p>✋测试</p>
+<p>win键（ALT键左面的）＋R 输入cmd</p>
+<p>在cmd  中输入  javac   和   java -version  （如下图所示） ，恭喜您  安装成功</p>
+<p>​</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[👏测试一下]]></title>
         <id>https://q751147626.github.io/q751147626.github/post/hello-gridea/</id>
